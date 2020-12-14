@@ -1,7 +1,3 @@
-## Multi-Layer Networks for Ensemble Precipitation Forecasts Postprocessing
-
-### Fengyang Xu, Guanbin Li, Yunfei Du, Zhiguang Chen, Yutong Lu
-
 
 ### Key software dependencies 
 
