@@ -1,4 +1,4 @@
 Since the complete dataset's size exceeds the available max limit, we provide the partial preprocessed testing set of Smod. For complete data, please visit
 Forecast:   https://apps.ecmwf.int/datasets/data/tigge/
-Observation:   http://data.cma.cn/en/?r=data/detail\&dataCode=A.0012.0001/
+Observation:   http://data.cma.cn/en/?r=data/detail&dataCode=A.0012.0001/
 download. The pre-processing code is in the utils.py file.
